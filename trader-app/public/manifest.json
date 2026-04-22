@@ -1,0 +1,12 @@
+{
+  "name": "Trader Tools",
+  "short_name": "Trader",
+  "description": "GemRadar + Scanner Góes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020408",
+  "theme_color": "#00f5ff",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
